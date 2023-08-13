@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="today">Today</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="icon_point">Icon Point</string>
+    <string name="dummyTitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="click_to_see_details">Click to see details</string>
+    <string name="recent">Recent</string>
+    <string name="title_home">Home</string>
+    <string name="there_seems_to_be_a_slight_issue">There seems to be a slight issue.</string>
+    <string name="read_more">Read more …</string>
+    <string name="detail_news">Detail news</string>
+    <string name="title_detail">Detail</string>
+    <string name="search_news">Search News</string>
+    <string name="dummySource">Author : Memphis , Source : Google</string>
+    <string name="dummyDate"> Published At : 20 Jan 2023 </string>
+    <string name="source_value">Author : %1$s , Source : %2$s</string>
+    <string name="date_value">Published At : %1$s</string>
+    <string name="find_your_topics">#Find your topics</string>
+    <string name="title_search">Search</string>
+    <string name="Retry">Retry</string>
+</resources>
